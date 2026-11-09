@@ -1,0 +1,9 @@
+{
+  "source": "@meopostm",
+  "target": "@BloxFruitMalaysia4 @BloxFruitMalaysia8 @BLOXFRUITM",
+  "posts_per_round": 1,
+  "interval_min": 10,
+  "interval_max": 20,
+  "batch_pause": 5,
+  "history": 3
+}
